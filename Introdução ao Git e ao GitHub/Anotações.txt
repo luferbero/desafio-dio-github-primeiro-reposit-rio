@@ -1,3 +1,11 @@
   Link para baixar o Git: https://git-scm.com/
 
-  Git Bash: Um terminal extendido para otimizar o uso do Git.
+  O Git Bash é um terminal extendido para otimizar o uso do Git.
+  Ao abrir o Git Bash com o botão direito do mouse no local que estiver, o Git abrirá 
+  no mesmo local otimizando tempo.
+
+  O GitHub é um serviço em nuvem que hospeda um sistema de controle de versão (VCS)
+  chamado Git. Ele é um ambiente colaborativo que permite que desenvolvedores 
+  façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado
+  do seu progresso. Também serve como portfólio para empresas observarem os projetos
+  que os desenvolvedores estão envolvidos  

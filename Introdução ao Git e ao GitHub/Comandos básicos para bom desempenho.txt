@@ -1,0 +1,10 @@
+Comandos básicos para um bom desempenho:
+
+  - Mudar de pasta = cd (digitar nome da pasta)
+  - Voltar para pasta anterior = cd ..
+  - Listar a pasta = ls
+  - Criar pasta = mkdir (digitar nome da nova pasta)
+  - Criar arquivo = echo > (digitar nome do arquivo)
+  - Deletar pasta = rm -rf (digitar nome da pasta)
+  - Limpar o terminal = clear ou ctrl+l 
+

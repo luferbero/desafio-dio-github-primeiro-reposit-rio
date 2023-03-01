@@ -1,0 +1,11 @@
+Comandos importantes:
+
+  - git init = para iniciar o git e possibilitar que ele gerencie o código. (quando utilizamos esse 
+    comando, é criado um repositório)
+  - git commit -m "nomeie commit" = para comitar arquivo e nomear
+  - git add = adiciona o que estiver na área que estivermos trabalhando
+  - git clone (digitar link de repositório remoto) = para clonar repositório remoto na máquina
+  - "mv" = comando para mover pasta
+  - git remote add origin (link do repositório remoto) e git push origin = para empurrar 
+    para repositório remoto
+  - git pull origin = para puxar repositório alterado no remoto para sua máquina 
